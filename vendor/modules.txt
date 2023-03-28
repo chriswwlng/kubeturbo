@@ -1,3 +1,19 @@
+# cloud.google.com/go/compute v1.14.0
+## explicit; go 1.19
+# cloud.google.com/go/compute/metadata v0.2.3
+## explicit; go 1.19
+# github.com/Azure/go-autorest v14.2.0+incompatible
+## explicit
+# github.com/Azure/go-autorest/autorest v0.11.18
+## explicit; go 1.12
+# github.com/Azure/go-autorest/autorest/adal v0.9.13
+## explicit; go 1.12
+# github.com/Azure/go-autorest/autorest/date v0.3.0
+## explicit; go 1.12
+# github.com/Azure/go-autorest/logger v0.2.1
+## explicit; go 1.12
+# github.com/Azure/go-autorest/tracing v0.6.0
+## explicit; go 1.12
 # github.com/KimMachineGun/automemlimit v0.2.4
 ## explicit; go 1.19
 github.com/KimMachineGun/automemlimit/memlimit
@@ -57,12 +73,16 @@ github.com/emicklei/go-restful/log
 # github.com/evanphx/json-patch v5.6.0+incompatible
 ## explicit
 github.com/evanphx/json-patch
+# github.com/form3tech-oss/jwt-go v3.2.3+incompatible
+## explicit
 # github.com/fsnotify/fsnotify v1.5.1
 ## explicit; go 1.13
 github.com/fsnotify/fsnotify
 # github.com/go-logr/logr v1.2.2
 ## explicit; go 1.16
 github.com/go-logr/logr
+# github.com/go-logr/zapr v1.2.0
+## explicit; go 1.16
 # github.com/godbus/dbus/v5 v5.0.4
 ## explicit; go 1.12
 github.com/godbus/dbus/v5
@@ -268,12 +288,18 @@ github.com/turbonomic/turbo-go-sdk/pkg/proto
 github.com/turbonomic/turbo-go-sdk/pkg/service
 github.com/turbonomic/turbo-go-sdk/pkg/supplychain
 github.com/turbonomic/turbo-go-sdk/pkg/version
-# github.com/turbonomic/turbo-policy v0.0.0-20230227150618-cce94c7d2742
+# github.com/turbonomic/turbo-policy v0.0.0-20230328195608-0556e3cbe9b3
 ## explicit; go 1.17
 github.com/turbonomic/turbo-policy/api/v1alpha1
 # github.com/xanzy/go-gitlab v0.74.0
 ## explicit; go 1.18
 github.com/xanzy/go-gitlab
+# go.uber.org/atomic v1.7.0
+## explicit; go 1.13
+# go.uber.org/multierr v1.6.0
+## explicit; go 1.12
+# go.uber.org/zap v1.19.1
+## explicit; go 1.13
 # golang.org/x/crypto v0.0.0-20220314234659-1baeb1ce4c0b => golang.org/x/crypto v0.0.0-20220427172511-eb4f295cb31f
 ## explicit; go 1.17
 golang.org/x/crypto/cast5
